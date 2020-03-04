@@ -1,6 +1,6 @@
 # SDFGen
 A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes, using code from Robert Bridson's website.
-
+一个用于对mesh结构生成符号距离场的工具。
 
 The MIT License (MIT)
 
